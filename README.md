@@ -1,2 +1,2 @@
-# dorfiles
-my personal dotfiles
+# dotfiles
+my personal dotfiles and config files
